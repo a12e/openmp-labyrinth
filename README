@@ -1,0 +1,20 @@
+
+Liste des fichiers présents dans cette archive :
+
+	chemin_lab.c : lit une fichier laby.lab et cherche le chemin le plus court
+	gen_lab.c : génère le labyrinthe et enregistre dans laby.lab
+	graph.c : bibliothèque graphique, source
+	graph.h : bibliothèque graphique, header
+	Makefile : makefile
+	README : ce fichier
+
+Sujet :
+
+Parallélisez la génération de labyrinthe : désactivez l'affichage et faites des
+mesures de performance pour vérifier que l'accélération est bonne.
+
+Vous prendrez soin de ne pas perturber l'algorithme, en évitant que des lignes
+vides n'apparaissent dans le labyrinthe généré ou que des murs ne bloquent des
+parties du labyrinthe.
+
+
